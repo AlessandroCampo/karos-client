@@ -21,7 +21,7 @@
                  <img :src="props.card.image_url" alt="card artwork" class="object-cover w-full block h-full" />
             -->
 
-            <img :src="'/artworks/' + card.templateId + '.png'" alt="card artwork"
+            <img :src="'/artworks/' + card.templateId + '.jpg'" alt="card artwork"
               class="object-cover w-full block h-full" />
 
 
